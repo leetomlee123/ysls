@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://reader.colors.nyc.mn/sitemap.xml
+
